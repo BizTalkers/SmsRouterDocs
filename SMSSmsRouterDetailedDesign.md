@@ -198,6 +198,6 @@ SimpleSms is defined in OpenApiDef\NSwag\Generated.cs as shown below
 ### Configuring Azure API Management
 The yaml specification can be imported into api management by selecting APIs\+ Add API\Create from definition - OpenAPI\Select a file. From here browse to the yaml that was previously exported from Swagger Hub and added into the Visual Studio solution.
 
-A screencast showing generation of C# and import of yaml into APIM can be seen [here](./ExportingYamlFromSwaggerHub.mp4)
+A screencast showing generation of C# and import of yaml into APIM can be seen [here](https://youtu.be/WNPRF861qO0)
 
 
